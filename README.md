@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-shell scripting
+this my shell scripting learning process
