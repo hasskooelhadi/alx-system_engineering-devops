@@ -1,2 +1,2 @@
 #!/bin/bash
-nl -v "/bin/ls -al" __ls__
+nl -v "/bin/ls -al" "__ls__"
