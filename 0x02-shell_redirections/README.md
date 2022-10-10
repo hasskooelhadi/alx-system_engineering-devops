@@ -1,0 +1,1 @@
+i/o bash redirection
